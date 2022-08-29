@@ -1,0 +1,110 @@
+[
+    {
+        "_id": "62f17e07777f835f736e4d8a",
+        "description": "cricket",
+        "dueDate": "2022-12-17T00:00:00.000Z",
+        "createdBy": "62e9a72ae5c3753411663b83",
+        "assignedUser": null,
+        "taskStatus": "New",
+        "deleted": false,
+        "createdAt": "2022-08-08T21:20:07.037Z",
+        "updatedAt": "2022-08-08T21:20:07.037Z",
+        "__v": 0
+    },
+    {
+        "_id": "62f17e0d777f835f736e4d8e",
+        "description": "BaseBall",
+        "dueDate": "2022-12-17T00:00:00.000Z",
+        "createdBy": "62e9a72ae5c3753411663b83",
+        "assignedUser": null,
+        "taskStatus": "New",
+        "deleted": false,
+        "createdAt": "2022-08-08T21:20:13.318Z",
+        "updatedAt": "2022-08-08T21:20:13.318Z",
+        "__v": 0
+    },
+    {
+        "_id": "62f17e1a777f835f736e4d92",
+        "description": "Dodge Ball",
+        "dueDate": "2022-12-17T00:00:00.000Z",
+        "createdBy": "62e9a72ae5c3753411663b83",
+        "assignedUser": null,
+        "taskStatus": "New",
+        "deleted": true,
+        "createdAt": "2022-08-08T21:20:26.043Z",
+        "updatedAt": "2022-08-08T21:20:46.184Z",
+        "__v": 0
+    },
+    {
+        "_id": "62f1981b68c0877e7eb0f645",
+        "description": "Gyming",
+        "dueDate": "2022-12-17T00:00:00.000Z",
+        "createdBy": "62e9a72ae5c3753411663b83",
+        "assignedUser": null,
+        "taskStatus": "New",
+        "deleted": true,
+        "createdAt": "2022-08-08T23:11:23.830Z",
+        "updatedAt": "2022-08-10T11:07:27.248Z",
+        "__v": 0
+    },
+    {
+        "_id": "62f38e71eef3f11f6de99582",
+        "description": "paragliding",
+        "dueDate": "2022-12-17T00:00:00.000Z",
+        "createdBy": "62e9a72ae5c3753411663b83",
+        "assignedUser": null,
+        "taskStatus": "New",
+        "deleted": false,
+        "createdAt": "2022-08-10T10:54:41.352Z",
+        "updatedAt": "2022-08-10T10:54:41.352Z",
+        "__v": 0
+    },
+    {
+        "_id": "62f39115f03e1197894d818c",
+        "description": "parasailing",
+        "dueDate": "2022-12-17T00:00:00.000Z",
+        "createdBy": "62e9a72ae5c3753411663b83",
+        "assignedUser": null,
+        "taskStatus": "New",
+        "deleted": false,
+        "createdAt": "2022-08-10T11:05:57.491Z",
+        "updatedAt": "2022-08-10T11:05:57.491Z",
+        "__v": 0
+    },
+    {
+        "_id": "62f39128f03e1197894d8190",
+        "description": "parasailing",
+        "dueDate": "2022-12-17T00:00:00.000Z",
+        "createdBy": "62e9a72ae5c3753411663b83",
+        "assignedUser": null,
+        "taskStatus": "New",
+        "deleted": false,
+        "createdAt": "2022-08-10T11:06:16.274Z",
+        "updatedAt": "2022-08-10T11:06:16.274Z",
+        "__v": 0
+    },
+    {
+        "_id": "62f39136f03e1197894d8194",
+        "description": "random",
+        "dueDate": "2022-12-17T00:00:00.000Z",
+        "createdBy": "62e9a72ae5c3753411663b83",
+        "assignedUser": null,
+        "taskStatus": "New",
+        "deleted": true,
+        "createdAt": "2022-08-10T11:06:30.330Z",
+        "updatedAt": "2022-08-10T11:06:39.908Z",
+        "__v": 0
+    },
+    {
+        "_id": "62f391ecf03e1197894d81ba",
+        "description": "random jerry",
+        "dueDate": "2022-12-17T00:00:00.000Z",
+        "createdBy": "62e9ac01728d7676f49e1f2e",
+        "assignedUser": "62e9ac0a728d7676f49e1f32",
+        "taskStatus": "New",
+        "deleted": true,
+        "createdAt": "2022-08-10T11:09:32.977Z",
+        "updatedAt": "2022-08-10T11:12:35.021Z",
+        "__v": 0
+    }
+]
